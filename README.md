@@ -12,8 +12,8 @@ This project provides a solution for the polynomial secret sharing problem using
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd polynomial-secret-sharing
+   git clone https://github.com/buntyanvi/Polynomial_Problem
+   cd polynomial_Problem
 
 2. **Install dependencies (if any):**
       ```bash

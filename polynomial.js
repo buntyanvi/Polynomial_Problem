@@ -50,4 +50,4 @@ const processTestCase = (testCaseFile) => {
 };
 
 processTestCase('testCase1.json');
-processTestCase('testCase2.json'); s
+processTestCase('testCase2.json');

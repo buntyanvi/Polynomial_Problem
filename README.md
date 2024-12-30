@@ -22,3 +22,8 @@ This project provides a solution for the polynomial secret sharing problem using
 3. **Run The Project:**
       ```bash
       npm start
+
+4. **Output**:
+   - TestCase1: The constant term (c) is: 3
+   - TestCase2: The constant term (c) is: 79836264059587
+   

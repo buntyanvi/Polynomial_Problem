@@ -24,6 +24,6 @@ This project provides a solution for the polynomial secret sharing problem using
       npm start
 
 4. **Example Output**:
-   TestCase1: The constant term (c) is: 3
-   TestCase2: The constant term (c) is: 
+   - TestCase1: The constant term (c) is: 3
+   - TestCase2: The constant term (c) is: 
    

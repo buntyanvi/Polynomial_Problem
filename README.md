@@ -15,8 +15,10 @@ This project provides a solution for the polynomial secret sharing problem using
    git clone <repository-url>
    cd polynomial-secret-sharing
 
-**Install dependencies (if any):**
+2. **Install dependencies (if any):**
       ```bash
       npm install
 
-**Install dependencies (if any):**
+3. **Install dependencies (if any):**
+      ```bash
+      npm start

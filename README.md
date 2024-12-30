@@ -19,6 +19,6 @@ This project provides a solution for the polynomial secret sharing problem using
       ```bash
       npm install
 
-3. **Install dependencies (if any):**
+3. **Run The Project:**
       ```bash
       npm start
